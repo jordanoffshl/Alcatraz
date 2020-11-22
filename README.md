@@ -22,14 +22,14 @@ N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le pr
 
 Offres de Alcatraz:
 * 💥 Un bot 100% Français pas comme les autres
-* 💯 Plus de 170 commandes
+* 💯 Plus de 180 commandes
 * 🌐 Des commandes en tout genre, Rôle couleur, Fun, Nsfw, Modération, Général, Image etc...
 * 🤩 Besoin que d'un bot au mieux de plusieurs
 * ⚙️ Rejoins la communautés de Alcatraz Empire
 
 ### Les commandes
 
-Alcatraz a beaucoup de fonctionnalités, avec **11 catégories principales**:
+Alcatraz a beaucoup de fonctionnalités, avec **12 catégories principales**:
 
 *   👩‍💼 **Administration**: `desacategorie`, `randomcolor`, `setautokick`, `setwelcomechannel`, `setwelcomemessage` et **+**! 
 *   🚓 **Modération**: `addrole`, `slowmode`, `softban`, `warnlist`, et **+**! 
