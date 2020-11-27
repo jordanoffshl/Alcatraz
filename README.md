@@ -48,7 +48,7 @@ Alcatraz a beaucoup de fonctionnalités, avec **12 catégories principales**:
 * 1- Commencer par télécharger le repo et d'extraire le dossier `alcatraz-master`sur votre bureau.
 * 2- Ouvrez le dossier `alcatraz-master` et crée un dossier `data`.
 * 3- Ouvrez la racine de votre dossier avec CMD
-* 4- Faite la commande `yarn install`.
+* 4- Faite la commande `yarn install` [Télécharger Yarn](https://yarnpkg.com/lang/fr/docs/install/).
 * 5- Allez dans le fichier `config.json` et le remplir.
 * 6- Après faite dans le CMD `npm start`.
 
